@@ -32,3 +32,4 @@ python3 main_gui.py
 ```
 ![](./img/img1.png)
 ![](./img/img2.png)
+# baconNumberGUI
